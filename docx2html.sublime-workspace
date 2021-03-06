@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bold",
+				"bold_string"
+			],
+			[
+				"find",
+				"findall"
+			],
+			[
+				"a",
+				"append\tfunction"
+			],
+			[
+				"get",
+				"get_file_paths\tfunction"
+			],
+			[
+				"image",
+				"image_count\tstatement"
+			],
+			[
+				"write",
+				"write_data\tfunction"
+			],
+			[
+				"re",
+				"response_command\tfunction"
+			],
+			[
+				"out",
+				"output_raw\tparam"
+			],
+			[
+				"simul",
+				"simulation_dir_path\tstatement"
+			],
+			[
+				"wri",
+				"write_data\tfunction"
+			],
+			[
+				"dec",
+				"dec_swap_num"
+			],
+			[
+				"au",
+				"auto_pid_list\tstatement"
+			],
+			[
+				"raw",
+				"raw_to_readable\tfunction"
+			],
+			[
+				"xmin_",
+				"xmin_hex\tstatement"
+			],
+			[
+				"ld_",
+				"ld_output_raw_dec\tparam"
+			],
+			[
+				"path",
+				"pathlib\tmodule"
+			],
+			[
+				"filter",
+				"filtered_paths\tstatement"
+			],
+			[
+				"auto",
+				"auto_pid_str"
+			],
+			[
+				"Inn",
+				"IncorrectVinLength\tclass"
+			],
+			[
+				"OBD2",
+				"Obd2Simulation\tclass"
+			],
+			[
+				"dtcs",
+				"dtcstring\tparam"
+			],
+			[
+				"ch",
+				"check_missing_formula\tfunction"
+			],
+			[
+				"crea",
+				"create_livedata"
+			],
+			[
+				"item",
+				"item_infor"
+			],
+			[
+				"writ",
+				"write_data"
+			],
+			[
+				"wr",
+				"write_data"
+			],
+			[
+				"bytes",
+				"byte_size"
+			],
+			[
+				"byte",
+				"byte_size"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"tra",
+				"Translation"
+			],
+			[
+				"to",
+				"to_list"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"sid",
+				"sid_data_list"
+			],
+			[
+				"byte_",
+				"byte_position"
+			],
+			[
+				"PROTOC",
+				"PROTOCOL_CAN"
+			],
+			[
+				"dtc_",
+				"dtc_status_df"
+			],
+			[
+				"w",
+				"write_missing_enum_flag"
+			],
+			[
+				"set",
+				"set_index"
+			],
+			[
+				"obd2_",
+				"obd2_monitors_path"
+			],
+			[
+				"OBD",
+				"Obd2Simulation"
+			],
+			[
+				"stat",
+				"staticmethod"
+			],
+			[
+				"can_",
+				"can_postfix"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"sheet_name",
+				"sheet_names"
+			],
+			[
+				"vin",
+				"vinfull"
+			],
+			[
+				"database",
+				"database_display"
+			],
+			[
+				"VIN",
+				"VinDecode"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"lan",
+				"lang_filter"
+			],
+			[
+				"samp",
+				"SampleHtml"
+			],
+			[
+				"_Arrayda",
+				"_ArrayDisplay()"
+			],
+			[
+				"_array",
+				"_ArrayDisplay()"
+			],
+			[
+				"print",
+				"println()\tfunc"
+			],
+			[
+				"system",
+				"SYSTEM\tJava Class"
+			],
+			[
+				"_IE",
+				"_IECreate()"
+			],
+			[
+				"stringre",
+				"StringRegExpReplace()"
+			],
+			[
+				"stringrep",
+				"StringRegExpReplace()"
+			],
+			[
+				"for",
+				"ForToStepNext"
+			],
+			[
+				"Console",
+				"ConsoleWrite()"
+			],
+			[
+				"fi",
+				"finally"
+			],
+			[
+				"thr",
+				"throws"
+			],
+			[
+				"file",
+				"FileInputStream"
+			],
+			[
+				"student",
+				"Student"
+			],
+			[
+				"stri",
+				"String"
+			],
+			[
+				"el",
+				"el\telse"
+			],
+			[
+				"strin",
+				"string_in_string"
+			],
+			[
+				"Cir",
+				"Circle"
+			],
+			[
+				"@Des",
+				"@DesktopDir"
+			],
+			[
+				"console",
+				"ConsoleWrite()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dtc_routine_docx2html_functions.py",
+			"settings":
+			{
+				"buffer_size": 16495,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dtc_routine_docx2html v4.py",
+			"settings":
+			{
+				"buffer_size": 261,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "from sys import exit\n\nfrom dtc_routine_docx2html_functions import routine_final_convert\nfrom dtc_routine_docx2html_functions import capitalize_each_word\n\n\nimport re\n\n\npath=r'F:\\Dropbox\\DTC Routine Project\\Thien\\Finished\\1997 Honda Accord L4, 2.2L\\Diagnostic Routine\\DTC\\P0141\\P0141.docx'\nroutine_final_convert(path=path, input_interface_flag=True)\n\n\n",
+			"file": "dtc_routine_docx2html v5.py",
+			"file_size": 361,
+			"file_write_time": 132285428687392645,
+			"settings":
+			{
+				"buffer_size": 350,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "put_tables.py",
+			"settings":
+			{
+				"buffer_size": 306,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					""
+				],
+				[
+					"Packages/AutoItScript/AutoIt.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/AutoItScript/AutoIt.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Java.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Javatar: Actions History"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda",
+				"Anaconda: Set Python interpreter"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 388.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Google Drive/3. Coding/Python/docx2html"
+	],
+	"file_history":
+	[
+		"/F/Dropbox/DTC Routine Project/Thien/Jan17/2004 Acura MDX V6, 3.5L/Diagnostic Routine/DTC/P0420/P0420.html",
+		"/G/Google Drive/7. Text Files/Code VBA.bas",
+		"/F/Dropbox/DTC Routine Project/Thien/Jan17/2004 Acura MDX V6, 3.5L/Diagnostic Routine/DTC/P0301/P0301.html",
+		"/C/Users/ThienNguyen/Desktop/P0301/P0301.html",
+		"/F/Dropbox/DTC Routine Project/Suong/1999 Honda Accord L4, 2.3L/Diagnostic Routine/DTC/P0420/P0420.html",
+		"/F/Dropbox/DTC Routine Project/Thien/Jan17/2004 Acura MDX V6, 3.5L/Diagnostic Routine/DTC/P0301/P0301_raw.html",
+		"/F/Dropbox/DTC Routine Project/Suong/1999 Honda Accord L4, 2.3L/Diagnostic Routine/DTC/P1381/P1381.html",
+		"/G/Google Drive/3. Coding/Python/docx2html/dtc_routine_docx2html v4.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/dtc_routine_docx2html_functions_bkOct25.py",
+		"/C/Users/ThienNguyen/Desktop/DTC P0300.html",
+		"/G/Google Drive/3. Coding/Python/docx2html/dtc_routine_docx2html v3.py",
+		"/C/Users/ThienNguyen/Desktop/P2646.html",
+		"/G/Google Drive/3. Coding/Python/Innova Server/source/common/simulation.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/dtc_routine_docx2html v2.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/main.py",
+		"/G/Google Drive/3. Coding/Python/hutech/report hutech software.py",
+		"/C/Users/ThienNguyen/Desktop/dir1/dir2/dir3/New Text Document.txt",
+		"/C/Users/ThienNguyen/Desktop/dircopyto/dir2/dir3/New Text Document.txt",
+		"/C/Users/ThienNguyen/Desktop/Chrysler/2009 Chrysler Sebring L4, 2.4L/1. Diagnostic Routine/DTC/P2004/P2004.html",
+		"/F/Dropbox/DTC Routine Project/# Special Cases Reference/# read me.txt",
+		"/F/Dropbox/DTC Routine Project/# Special Cases Reference/#read me.txt",
+		"/G/Google Drive/3. Coding/Python/docx2html/P0406_raw.html",
+		"/C/Users/ThienNguyen/Desktop/dtc_routine_docx2html v2.py",
+		"/F/6. Simulation Files/#New Simulation/CAN - All in One.sim",
+		"/C/Users/ThienNguyen/Desktop/2010 Ford Focus L4, 2.0L (1).sim",
+		"/C/Users/ThienNguyen/Desktop/2010 Ford Focus L4, 2.0L.sim",
+		"/F/6. Simulation Files/#New Simulation/#Full funtioncs vehicles/Ford 7''/2018 Ford Explorer V6 3.5L/2018 Ford Explorer V6, 3.5L (CAN UDS 6-14 500k).sim",
+		"/C/Users/ThienNguyen/Desktop/VCI OBDII.cap",
+		"/C/Users/ThienNguyen/Desktop/aaaaaaaaaaa.sim",
+		"/C/Users/ThienNguyen/Desktop/VCI OBD II.cap",
+		"/C/Users/ThienNguyen/Desktop/Autel ODO 3-11.cap",
+		"/C/Users/ThienNguyen/Desktop/Autel ODO 6-14.cap",
+		"/C/Users/ThienNguyen/Desktop/1FMCU0F72FUC36877 .sim",
+		"/C/Users/ThienNguyen/Desktop/VCI Service Check 3-11.cap",
+		"/C/Users/ThienNguyen/Desktop/VCI Service Check 6-14.cap",
+		"/C/Users/ThienNguyen/Desktop/5610 OBD II.cap",
+		"/C/Users/ThienNguyen/Desktop/VCI OBD II (1).cap",
+		"/C/Users/ThienNguyen/Desktop/Chrysler/2009 Chrysler Sebring L4, 2.4L/1. Diagnostic Routine/DTC/P2004/P2004_raw.html",
+		"/G/Google Drive/7. Text Files/Note.txt",
+		"/C/Users/ThienNguyen/Desktop/Chrysler/2008 Jeep Wrangler V6, 3.8L/Done.txt",
+		"/C/Users/ThienNguyen/Desktop/Chrysler/2009 Dodge Grand Caravan V6, 3.3L/1. Diagnostic Routine/DTC/P0456/P0456.html",
+		"/G/Google Drive/3. Coding/Python/docx2html/dtc_routine_docx2html.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/P0171.html",
+		"/F/6. Simulation Files/#New Simulation/#Full funtioncs vehicles/Ford 5xxx/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k).sim",
+		"/F/6. Simulation Files/#New Simulation/#Full funtioncs vehicles/Ford 5xxx/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k).sim",
+		"/G/Google Drive/3. Coding/Python/docx2html/P0420.docx",
+		"/C/Users/ThienNguyen/Desktop/aa.docx",
+		"/C/Users/ThienNguyen/Desktop/Chrysler/2008 Jeep Wrangler V6, 3.8L/1. Diagnostic Routine/DTC/P0404/P0404.html",
+		"/G/Google Drive/3. Coding/Python/docx2html/mypaths.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/test.py",
+		"/G/Google Drive/3. Coding/Python/Python notes.txt",
+		"/C/Users/ThienNguyen/Desktop/P0176 - 2009 Ram 1500 V6 3.7L.html",
+		"/G/Google Drive/3. Coding/Python/Tutorial/file_and_folder/file_and_folder.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/test.html",
+		"/G/Google Drive/3. Coding/Python/Innova Server/source/common/mypaths.py",
+		"/G/Google Drive/3. Coding/Python/docx2html/docx2html.sublime-project",
+		"/C/Users/ThienNguyen/Desktop/test.py",
+		"/G/Google Drive/3. Coding/Python/Innova Server/innovaserver.sublime-workspace",
+		"/C/Users/ThienNguyen/Desktop/docx2html-master/docx2html/core.py",
+		"/C/Users/ThienNguyen/Desktop/docx2html-master/docx2html/converters.py",
+		"/C/Users/ThienNguyen/Desktop/docx2html-master/test_requirements.txt",
+		"/C/Users/ThienNguyen/Desktop/a.py",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/6. Simulation Files/#Ford Testing simulation/04.DTC Test (Show DTC)/RPM.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/source/common/databases.py",
+		"/C/Users/ThienNguyen/Desktop/PIDs",
+		"/F/6. Simulation Files/#Ford Testing simulation/04.DTC Test (Show DTC)/DTCTest_PCM_ABS_SRS_TCM_UDS_2014_Ford_Fiesta_KOER.sim",
+		"/F/7. GitLab/Database/Readme.txt",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ThienNguyen/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/ThienNguyen/AppData/Local/Programs/Python/Python37-32/lib/site-packages/pandas/__init__.py",
+		"/G/Google Drive/3. Coding/Python/Innova Server/source/ford.py",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k).sim",
+		"/F/HT/HUTECH 04092019/report hutech software.py",
+		"/F/HT/HUTECH 04092019/hutechlog (2019-09-11 15-58-02).txt",
+		"/F/HT/HUTECH 04092019/hutechlog (2019-09-10 18-09-10).txt",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019 - Copy/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k).sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k).sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k)  - Active Test.sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k) - Telematics.sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 3-11 125k).sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k) - Telematics.sim",
+		"/F/6. Simulation Files/#New Simulation/Ford_Simulation_TestDocument_5xxxTool_Sep092019/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k) - Active Test.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 3-11 125k).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k) - Telematics.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k) - Telematics.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Fusion/LD Telematics 2017 Ford Fusion.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k) Active Test.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD TPMS 2011 Ford Fiesta.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD TPMS 2017 Ford Fusion.sim",
+		"/C/Users/ThienNguyen/Desktop/aaaaaaa.py",
+		"/C/Users/ThienNguyen/Desktop/MAzda Excel Live DAta",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD TPMS 2017 Mazda cx5.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD SRS 2017 Mazda cx5.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD ABS 2017 Mazda cx5.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD SRS 2012 Mazda cx7.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD ABS 2012 Mazda cx7.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD TPMS 2012 Mazda cx7.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD SRS 2008 Mazda Tribute.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD ABS 2008 Mazda Tribute.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Mazda/LD TPMS 2008 Mazda Tribute.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k) Active Test.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD SRS 2011 Ford Fiesta.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD ABS 2011 Ford Fiesta.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD Telematics 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/Ford Active Test CAN & CAN_UDS.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD ABS 2017 Ford Fusion.sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/LD SRS 2017 Ford Fusion.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/NWS 2017 Ford Fusion.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/Steering Angle - 2011 Fiesta Type 2.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/2017 Ford Fusion L4, 2.0L (3FA6P0K9XHR117233) (CAN 6-14 500k) (full functions).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/LD Telematics 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/Ford Active Test CAN & CAN_UDS.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/NWS 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/LD TPMS 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/LD SRS 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/LD ABS 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fusion/LD Telematics 2017 Ford Fusion.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 3-11 125k) (full functions).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621) (CAN 6-14 500k) (full functions).sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/FORD PWM FULL.SIM",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/FORD FULL CAN.SIM",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Fiesta/LD ABS 2011 Ford Fiesta.sim",
+		"/C/Users/ThienNguyen/Desktop/Ford Simulation Files/Fiesta/2011 Ford Fiesta L4, 1.6L (3FADP4EJ1BM162621)(CAN 6-14 500k).sim",
+		"/G/Google Drive/3. Coding/Python/Innova Server/simulation/Fiesta/NWS 2011 Ford Fiesta.sim"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 601.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arr",
+			"recheck",
+			"rêchck",
+			"rai",
+			"'y'",
+			"\"n\"",
+			"\"y\"",
+			"exit",
+			"strong",
+			"<strong>(?=\\n.+?\\d+?\\.)",
+			"<strong>(?=\\n.+\\d+\\.)",
+			"<strong>(?!\\n.+\\d+\\.)",
+			"<strong>\\n.+\\d+\\.",
+			">\n",
+			"raise",
+			"exit",
+			"each_line",
+			" +\\n",
+			"+\\n",
+			"                ",
+			"col_widths",
+			"table",
+			"3,000",
+			"3000",
+			"C:\\Users\\ThienNguyen\\Desktop\\Temp",
+			"\\n",
+			" \\n",
+			"\\\\P....\\.html",
+			"\\DTC\\",
+			"Diagnostic Routine\\",
+			"HUTECH_DTC",
+			"kiet",
+			"dir",
+			"\\n\\n",
+			"<br/>",
+			"6",
+			"2f",
+			"\"",
+			"dd 01",
+			"40 4c",
+			"DD 01",
+			"D1",
+			"06",
+			"27",
+			"><",
+			"yes",
+			"\"",
+			"  \\d+",
+			" width=\"100\"",
+			"init",
+			"battery",
+			"yes",
+			"<td>(.*?)Yes(.*?)</td>",
+			"yes",
+			"<table border=\"1\".+",
+			"<table border=\"1\"",
+			"\\<table border=\"1\"",
+			"yes",
+			"  \\d. ",
+			"\\d. ",
+			" ",
+			"\\n ",
+			"\"",
+			"\\t"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"one_line",
+			"",
+			"col_char_lens",
+			" + \\n",
+			"\\n",
+			" ",
+			"",
+			"Diagnostic Routine",
+			"\\n",
+			"",
+			">\\n<",
+			"",
+			"\\n",
+			"",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dtc_routine_docx2html_functions.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1256,
+								972
+							]
+						],
+						"settings":
+						{
+							"SL.106.region_keys":
+							[
+							],
+							"SL.120.region_keys":
+							[
+							],
+							"SL.13.region_keys":
+							[
+							],
+							"SL.14.region_keys":
+							[
+							],
+							"SL.15.region_keys":
+							[
+							],
+							"SL.151.region_keys":
+							[
+							],
+							"SL.29.region_keys":
+							[
+							],
+							"SL.30.region_keys":
+							[
+							],
+							"SL.31.region_keys":
+							[
+							],
+							"SL.74.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "dtc_routine_docx2html v4.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								261,
+								261
+							]
+						],
+						"settings":
+						{
+							"SL.112.region_keys":
+							[
+							],
+							"SL.17.region_keys":
+							[
+							],
+							"SL.30.region_keys":
+							[
+							],
+							"SL.33.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dtc_routine_docx2html v5.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								350,
+								350
+							]
+						],
+						"settings":
+						{
+							"SL.33.region_keys":
+							[
+							],
+							"SL.34.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "put_tables.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 306,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								306,
+								306
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"SL.31.region_keys":
+							[
+							],
+							"SL.78.region_keys":
+							[
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 203.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.568077276909,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 116.0
+	},
+	"output.exec":
+	{
+		"height": 494.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gotodocumentation":
+	{
+		"height": 126.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 150.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "docx2html.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"G:\\Google Drive\\3. Coding\\Java\\Tutorial\\JavaPackage\\a.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
